@@ -6,18 +6,3 @@ const emplArr = [];
 getEmployeeData(emplArr);
 
 
-
-
-
-// getManagerData()
-//     .then(userData => {
-//        return getEmployeeData(userData);
-//     })
-//     .then(allEmployeeData => {
-//         console.log(allEmployeeData);
-//     })
-//     .catch(err => {
-//         console.log(err);
-//     });
-
-
